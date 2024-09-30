@@ -1,2 +1,2 @@
-git add README.md
-git commit -m "first commit"
+echo "# SmartFyt_Beta_Bill-s_version" >> README.md
+git init
