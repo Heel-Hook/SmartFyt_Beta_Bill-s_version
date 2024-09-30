@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SmartFyt Dashboard</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="dashboard">
+        <nav class="sidebar">
+            <!-- Sidebar content will go here -->
+        </nav>
+        <main class="main-content">
+            <!-- Main content will go here -->
+        </main>
+    </div>
+    <script src="js/script.js"></script>
+</body>
+</html>
